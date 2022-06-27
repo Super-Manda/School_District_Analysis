@@ -49,7 +49,7 @@ The district summary has been affected very negligibly.  Average math score has 
 ### Affect on Thomas High School's Standing
 -	**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
--When the NaNs were counted as failing the 9th graders' math and reading scores, Thomas High School would have gone from being ranked #2 in the district on overall pass rate to being ranked #8; however, they re-adjusted the statistics to exclude the NaNs.
+- When the NaNs were counted as failing the 9th graders' math and reading scores, Thomas High School would have gone from being ranked #2 in the district on overall pass rate to being ranked #8; however, they re-adjusted the statistics to exclude the NaNs.
 
 - **Original Stats on Thomas High School**
   -  Overall Pass Rate: 90.95%
@@ -109,4 +109,10 @@ The district summary has been affected very negligibly.  Average math score has 
 ## 3.	Summary: 
 
 ### Highlight of Main Changes on Updated School District Analysis 
-- Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- **Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.**
+
+1.	The chart of average scores from grades 9 to 12 showed that the 9th grade at Thomas High School was not counted due to having NaNs there, but everything else appeared normal. 
+2.	The mean district math score was negligibly reduced from 78.99 to 78.9. 
+3.	At the district level, the percent passing math went from 74.99 to 74.8.  
+4.	Likewise, the percent passing reading went from 85.81 to 85.7.  
+5.	At the district level, the overall percent passing went from 65.17 to 64.9.  
