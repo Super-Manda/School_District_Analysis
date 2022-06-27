@@ -26,7 +26,7 @@ This is a large data analysis of 15 schools in a district, some of which are dis
 
 -	How is the school summary affected?
 
-![Average_Scores_in-District](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Average_Scores_in-District.png
+![Average_Scores_in-District](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Average_Scores_in-District.png)
 
 
 ### Affect on Thomas High School's Standing
@@ -63,20 +63,26 @@ This is a large data analysis of 15 schools in a district, some of which are dis
 ### Affect of NaNs on Grade 9 Metrics
 -	How does replacing the ninth-grade scores affect the following:
 
-  -	Math and reading scores by grade
+  -	**Math and reading scores by grade**
 
 ![Math_Reading_by_Grades](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Math_Reading_by_Grades.png)
 
 
-  -	Scores by school spending
- 
+  -	**Scores by school spending**
+    - Regarding spending, there is no change because small and medium funded schools have satisfactory pass rates that suggest a better return on investment.  Had NaNs been counted as failures, that would have altered the overall pass rate from 63% down to 56% for the $631 to $645 spending bracket, where Thomas belongs.
+    
   ![School_Spending](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Spending_Per_Student.png)
   
-  -	Scores by school size
+  -	**Scores by school size**
+ 
+    - Regarding the size of the school and its passing rate, small schools have a 90% overall pass rate, medium schools have a 91% pass rate, and large schools have only a 58% pass rate.  Since Thomas was a medium school, leaving the NaNs as failures would have brought down the medium schools to an 85% pass rate, which is still satisfactory.  This suggests that students are more apt to get lost in the shuffle at a larger school regardless.
  
   ![School_Size](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/School_Size.png)
   
-  -	Scores by school type
+  
+  -	**Scores by school type**
+
+    - After excluding NaNs, there is no difference in scores according to school type.  Had the NaNs been counted as failures, there would have been a slight reduction in the overall pass rate of charter schools (from 90% to 87%) because Thomas was a charter school.  Even so, there would still remain a marked difference between district schools and charter schools in that only 54% of district students pass both math and reading overall.  Charter schools still seem to do a much better job of getting students to pass math specifically.
 
 ![School_Type](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/School_Type.png)
 
