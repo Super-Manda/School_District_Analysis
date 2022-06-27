@@ -36,12 +36,12 @@ This is a large data analysis of 15 schools in a district, some of which are dis
 ## 2.	Results: 
 
 ### Affect on District and School Summaries
--	How is the district summary affected?
+-	**How is the district summary affected?**
 
 The district summary has been affected very negligibly.  Average math score has gone from 78.99 to 78.9.  Average reading score remains the same at 81.9. The percent passing math went from 74.99 to 74.8.  The percent passing reading went from 85.81 to 85.7.  The overall percent passing went from 65.17 to 64.9.  
 ![District_Analysis](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/District_Analysis.png)
 
--	How is the school summary affected?
+-	**How is the school summary affected?**
 
 ![Average_Scores_in-District](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Average_Scores_in-District.png)
 
