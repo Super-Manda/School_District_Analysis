@@ -6,6 +6,15 @@ This is a large data analysis of 15 schools in a district, some of which are dis
 
 ![Checked_for_THS9_NaNs](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Checked_for_THS9_NaNs.png)
 
+## Resources
+
+- Jupyter Notebook 6.4.8
+
+[Link_to_Original_Module_Pre-NANs](https://github.com/Super-Manda/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+
+**[Link_to_Challenge_Final_Code_After_NaNs](https://github.com/Super-Manda/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)**
+
+
 ### The district wishes to know more about: 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
