@@ -64,7 +64,8 @@ This is a large data analysis of 15 schools in a district, some of which are dis
 -	How does replacing the ninth-grade scores affect the following:
 
   -	**Math and reading scores by grade**
-
+    - Regarding math and reading scores by grade, there is no major change besides the addition of NaNs, which replaced Thomas High School's average reading score of 83.85 and replaced their average math score of 83.42.
+  
 ![Math_Reading_by_Grades](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Math_Reading_by_Grades.png)
 
 
