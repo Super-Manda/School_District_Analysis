@@ -21,7 +21,13 @@ This is a large data analysis of 15 schools in a district, some of which are dis
 
 ### Affect on District and School Summaries
 -	How is the district summary affected?
+
+![District_Analysis](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/District_Analysis.png)
+
 -	How is the school summary affected?
+
+![Average_Scores_in-District](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Average_Scores_in-District.png
+
 
 ### Affect on Thomas High School's Standing
 -	**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
@@ -56,12 +62,24 @@ This is a large data analysis of 15 schools in a district, some of which are dis
 
 ### Affect of NaNs on Grade 9 Metrics
 -	How does replacing the ninth-grade scores affect the following:
+
   -	Math and reading scores by grade
-  -	Scores by school spending
-  -	Scores by school size
-  -	Scores by school type
 
 ![Math_Reading_by_Grades](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Math_Reading_by_Grades.png)
+
+
+  -	Scores by school spending
+ 
+  ![School_Spending](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Spending_Per_Student.png)
+  
+  -	Scores by school size
+ 
+  ![School_Size](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/School_Size.png)
+  
+  -	Scores by school type
+
+![School_Type](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/School_Type.png)
+
 
 
 ## 3.	Summary: 
