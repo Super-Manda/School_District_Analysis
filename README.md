@@ -2,17 +2,24 @@
 
 ## 1. Purpose
 
-This is a large data analysis of 15 schools in a district, some of which are district schools, and some of which are charter schools.  In this report, data is no longer available for 9th graders at Thomas High School due to a cheating scandal at that charter school.  The first part of this data analysis was to replace the previously recorded scores of the 9th graders with NaN scores.  After checking that this was successful, the analysis was able to continue.
+This is a large data analysis of 15 schools in a district, some of which are district schools, and some of which are charter schools.  In this report, data is no longer available for 9th graders at Thomas High School due to a cheating scandal at that charter school.  The first part of this data analysis was to replace the previously recorded scores of the 9th graders at THS with NaN scores, which stands for "not a number."  The virtue is that they will not register as numbers, so it will be as though the data is discounted.  After checking that this was successful as shown below, the analysis was able to continue.
 
 ![Checked_for_THS9_NaNs](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Checked_for_THS9_NaNs.png)
 
+
 ## Resources
-
 - Jupyter Notebook 6.4.8
+- Pandas/ NumPy
 
-[Link_to_Original_Module_Pre-NANs](https://github.com/Super-Manda/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+- [Clean_Students_complete](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/clean_students_complete.csv)
 
-**[Link_to_Challenge_Final_Code_After_NaNs](https://github.com/Super-Manda/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)**
+- [Students_Complete](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/students_complete.csv) 
+
+- [Schools_Complete](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/schools_complete.csv) 
+
+- [Link_to_Original_Module_Pre-NANs](https://github.com/Super-Manda/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+
+- **[Link_to_Challenge_Final_Code_After_NaNs](https://github.com/Super-Manda/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)**
 
 
 ### The district wishes to know more about: 
@@ -31,6 +38,7 @@ This is a large data analysis of 15 schools in a district, some of which are dis
 ### Affect on District and School Summaries
 -	How is the district summary affected?
 
+The district summary has been affected very negligibly.  Average math score has gone from 78.99 to 78.9.  Average reading score remains the same at 81.9. The percent passing math went from 74.99 to 74.8.  The percent passing reading went from 85.81 to 85.7.  The overall percent passing went from 65.17 to 64.9.  
 ![District_Analysis](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/District_Analysis.png)
 
 -	How is the school summary affected?
