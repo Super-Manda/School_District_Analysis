@@ -43,6 +43,10 @@ The district summary has been affected very negligibly.  Average math score has 
 
 -	:pencil2: **How is the school summary affected?**
 
+- The school summary for Thomas High School reflects that its prior average math score was 83.42, its prior average reading score was 83.85, its prior percent passing math was 93.27, its prior percent passing reading was 97.31, and its prior overall pass rate was 90.95 when the 9th graders had scores.  
+
+- When Thomas High School reports on only grades 10 to 12, the school summary for Thomas High School reflects that its current average math score was 83.35, its current average reading score is 83.9, its current percent passing math is 93.19, its current percent passing reading was 97.02, and its prior overall pass rate was 90.63.  These are all very negligible findings.
+
 ![Average_Scores_in-District](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Average_Scores_in-District.png)
 
 
