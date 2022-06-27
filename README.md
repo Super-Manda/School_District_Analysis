@@ -2,6 +2,10 @@
 
 ## 1. Purpose
 
+This is a large data analysis of 15 schools in a district, some of which are district schools, and some of which are charter schools.  In this report, data is no longer available for 9th graders at Thomas High School due to a cheating scandal at that charter school.  The first part of this data analysis was to replace the previously recorded scores of the 9th graders with NaN scores.  After checking that this was successful, the analysis was able to continue.
+
+![Checked_for_THS9_NaNs](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Checked_for_THS9_NaNs.png)
+
 ### The district wishes to know more about: 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
@@ -56,6 +60,9 @@
   -	Scores by school spending
   -	Scores by school size
   -	Scores by school type
+
+![Math_Reading_by_Grades](https://github.com/Super-Manda/School_District_Analysis/blob/main/Resources/Math_Reading_by_Grades.png)
+
 
 ## 3.	Summary: 
 
